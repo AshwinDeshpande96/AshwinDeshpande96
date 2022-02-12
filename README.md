@@ -1,7 +1,7 @@
 # Welcome!🙋🏻‍♂️
-📫 How to reach me:
-* [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
+☎️ Contact me: 
+* 📧 [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
+* 🖇️ [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
 
 I am Software Engineer and a  Computer Science 🖥️ Graduate Student at 🏢 University of Illinois at Chicago.
 
