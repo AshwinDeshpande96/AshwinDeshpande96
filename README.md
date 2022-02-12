@@ -1,6 +1,6 @@
 # Ashwin Deshpande
 📫 How to reach me:
-* [ashwindeshpande96@gmail.com](ashwindeshpande96@gmail.com)
+* [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
 
 I am Software Engineer and a Computer Science Graduate Student at University of Illinois at Chicago. My interests are in Data Science, ML Research and developing full-stack data products.
