@@ -31,9 +31,9 @@ I am Software Engineer and a Computer Science Graduate Student at University of 
 * [TGS-Salt-Identification](https://github.com/AshwinDeshpande96/TGS-Salt-Identification) (Kaggle Competition)
 
 ## Tools & Technologies
-* Python, JAVA, JavaScript, C, Node.js, Angular, Scala
+* Python, JavaScript, C, Node.js, Angular, Scala
 * MySQL, PostgreSQL, DynamoDB, Cassandra, MongoDB
-* AWS, Hadoop, Git, Docker, Apache Spark, Apache Kafka, Apache Solr, PySpark, Git
+* AWS, Hadoop, Git, Docker, Apache Spark, Apache Kafka, Apache Solr, PySpark
 * Machine Learning, Natural Language Processing, Information Retrieval, Conversational Recommender Systems
 
 <!--
