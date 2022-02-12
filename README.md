@@ -1,12 +1,12 @@
-# Ashwin Deshpande
+# Welcome!🙋🏻‍♂️
 📫 How to reach me:
 * [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
 
-I am Software Engineer and a Computer Science Graduate Student at University of Illinois at Chicago. My interests are in Data Science, ML Research and developing full-stack data products.
+I am Software Engineer and a  Computer Science 🖥️ Graduate Student at 🏢 University of Illinois at Chicago. My interests are in 📊 Data Science, 📈 ML Research and developing full-stack data products.
 
 - 🔭 I’m currently working on:
-  * Speech based Conversational Recommender System using Knowledge Graphs
+  * 🗪 Speech based Conversational Recommender System using Knowledge Graphs
   
 ## Full Stack Projects
 * [Spotify ETL Pipeline](https://github.com/AshwinDeshpande96/Spotify-ETL-Pipeline-AWS-Lambda-DynamoDB)
@@ -14,7 +14,7 @@ I am Software Engineer and a Computer Science Graduate Student at University of 
 * [Realtime Cloud IOT Network](Realtime_Cloud_IOT_Network_Kafka_Spark_Cassandra)
   * Scala/Python | Hadoop | Spark | Kafka | Cassandra
 
-## Machine Learning Projects
+## 📈 Machine Learning Projects
 * [Churn Prediction Investment Company](https://github.com/AshwinDeshpande96/Churn-Prediction-Investment-Company)
   * Python | Machine Learning | Data Science | Classification | Visualization
 * [UIC Search Engine](https://github.com/AshwinDeshpande96/Search-Engine)
