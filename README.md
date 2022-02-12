@@ -10,7 +10,7 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
 - 🔭 I’m currently working on:
   * 🗪 Speech based Conversational Recommender System using Knowledge Graphs
   
-## Full Stack Projects
+## 🕸️ Full Stack Projects
 * [Spotify ETL Pipeline](https://github.com/AshwinDeshpande96/Spotify-ETL-Pipeline-AWS-Lambda-DynamoDB)
   * Python | AWS Lambda/Gateway API/Athena | DynamoDB
 * [Realtime Cloud IOT Network](Realtime_Cloud_IOT_Network_Kafka_Spark_Cassandra)
