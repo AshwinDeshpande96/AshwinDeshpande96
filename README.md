@@ -9,6 +9,8 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
 
 - 🔭 I’m currently working on:
   * 🗪 Speech based Conversational Recommender System using Knowledge Graphs
+  * Learning: Apache Airflow
+  * Learning: AWS SageMaker
   
 ## 🕸️ Full Stack Projects
 * [Spotify ETL Pipeline](https://github.com/AshwinDeshpande96/Spotify-ETL-Pipeline-AWS-Lambda-DynamoDB)
