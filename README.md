@@ -21,6 +21,7 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
 ## 📈 Machine Learning Projects
 * [Churn Prediction Investment Company](https://github.com/AshwinDeshpande96/Churn-Prediction-Investment-Company)
   * Python | Machine Learning | Data Science | Classification | Visualization
+* [Customer Value Estimation using Online Retail Data](https://github.com/AshwinDeshpande96/Customer-Value-Estimation-using-Online-Retail-Dataset) 
 * [UIC Search Engine](https://github.com/AshwinDeshpande96/Search-Engine)
   * Python | Crawler | Inverted Index | BERT/TF-IDF | Topic Specific Page Rank
 * [ADReSSo Challenge - INTERSPEECH 2021](https://github.com/AshwinDeshpande96/MMSE_Prediction2021)
