@@ -9,8 +9,7 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
 
 - 🔭 I’m currently working on:
   * 🗪 Speech based Conversational Recommender System using Knowledge Graphs
-  * Learning: Apache Airflow
-  * Learning: AWS SageMaker
+
 
 ## Publications
 * [How You Say It Matters: Measuring the Impact of Verbal Disfluency Tags on Automated Dementia Detection](https://github.com/AshwinDeshpande96/Measuring_the_Impact_of_Verbal_Disfluency_Tags_on_Automated_Dementia_Detection)
