@@ -11,6 +11,9 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
   * 🗪 Speech based Conversational Recommender System using Knowledge Graphs
   * Learning: Apache Airflow
   * Learning: AWS SageMaker
+
+## Publications
+* [How You Say It Matters: Measuring the Impact of Verbal Disfluency Tags on Automated Dementia Detection](https://github.com/AshwinDeshpande96/Measuring_the_Impact_of_Verbal_Disfluency_Tags_on_Automated_Dementia_Detection)
   
 ## 🕸️ Full Stack Projects
 * [Spotify ETL Pipeline](https://github.com/AshwinDeshpande96/Spotify-ETL-Pipeline-AWS-Lambda-DynamoDB)
@@ -19,6 +22,7 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
   * Scala/Python | Hadoop | Spark | Kafka | Cassandra
 
 ## 📈 Machine Learning Projects
+* [Conversational Recommender Systems using Multi-Relational Data](https://github.com/AshwinDeshpande96/Conversational_Recommender_System_using_Multi-Relational_Data)
 * [Churn Prediction Investment Company](https://github.com/AshwinDeshpande96/Churn-Prediction-Investment-Company)
   * Python | Machine Learning | Data Science | Classification | Visualization
 * [Customer Value Estimation using Online Retail Data](https://github.com/AshwinDeshpande96/Customer-Value-Estimation-using-Online-Retail-Dataset) 
