@@ -12,7 +12,7 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
 
 
 ## 🔍 Publications
-* [How You Say It Matters: Measuring the Impact of Verbal Disfluency Tags on Automated Dementia Detection](https://github.com/AshwinDeshpande96/Measuring_the_Impact_of_Verbal_Disfluency_Tags_on_Automated_Dementia_Detection)[paper](https://www.natalieparde.com/files/bionlp2022_farzana_et_al.pdf)
+* [How You Say It Matters: Measuring the Impact of Verbal Disfluency Tags on Automated Dementia Detection](https://github.com/AshwinDeshpande96/Measuring_the_Impact_of_Verbal_Disfluency_Tags_on_Automated_Dementia_Detection)[[paper](https://www.natalieparde.com/files/bionlp2022_farzana_et_al.pdf)]
   
 ## 🕸️ Full Stack Projects
 * [Spotify ETL Pipeline](https://github.com/AshwinDeshpande96/Spotify-ETL-Pipeline-AWS-Lambda-DynamoDB)
