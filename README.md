@@ -22,7 +22,7 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
 
 ## 📈 Machine Learning Projects
 * [Conversational Recommender Systems using Multi-Relational Data](https://github.com/AshwinDeshpande96/Conversational_Recommender_System_using_Multi-Relational_Data) [[report](https://github.com/AshwinDeshpande96/Conversational_Recommender_System_using_Multi-Relational_Data/blob/master/Report/Conversational_Recommender_Systems_using_Multi_Relational_Data.pdf)]
- * Recommendation System | Chatbot | Knowledge Graph | React | Django | AWS Lambda | DynamoDB | Spark
+  * Recommendation System | Chatbot | Knowledge Graph | React | Django | AWS Lambda | DynamoDB | Spark
 * [Churn Prediction Investment Company](https://github.com/AshwinDeshpande96/Churn-Prediction-Investment-Company)
   * Python | Machine Learning | Data Science | Classification | Visualization
 * [Customer Value Estimation using Online Retail Data](https://github.com/AshwinDeshpande96/Customer-Value-Estimation-using-Online-Retail-Dataset) 
