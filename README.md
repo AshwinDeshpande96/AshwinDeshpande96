@@ -30,14 +30,15 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
   * Python | Crawler | Inverted Index | BERT/TF-IDF | Topic Specific Page Rank
 * [ADReSSo Challenge - INTERSPEECH 2021](https://github.com/AshwinDeshpande96/MMSE_Prediction2021)
   * Python | NLP Research | Dementia Detection | Multi-Modal | Speech Recognition
+* [LANL Earthquake Prediction](https://github.com/AshwinDeshpande96/LANL-Earthquake-Prediction) (Kaggle Competition)
+* [TGS-Salt-Identification](https://github.com/AshwinDeshpande96/TGS-Salt-Identification) (Kaggle Competition)
 * [US Population Flow](https://github.com/AshwinDeshpande96/US_Population_Flow_VGAE)
   * Visualization | Graph Auto-Encoders 
 * [Clustering Algorithm](https://github.com/AshwinDeshpande96/Clustering_Algorithms)
 * [TF-IDF](https://github.com/AshwinDeshpande96/TF-IDF)
 * [MS Apriori Algorithm](https://github.com/AshwinDeshpande96/Apriori_Algorithm)
 * [Constituency Parsing - Probabilistic CKY Algorithm](https://github.com/AshwinDeshpande96/Probabilistic_CKY_Algorithm)
-* [LANL Earthquake Prediction](https://github.com/AshwinDeshpande96/LANL-Earthquake-Prediction) (Kaggle Competition)
-* [TGS-Salt-Identification](https://github.com/AshwinDeshpande96/TGS-Salt-Identification) (Kaggle Competition)
+
 
 ## Tools & Technologies
 * Python, JavaScript, C, Node.js, Angular, Scala
