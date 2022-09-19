@@ -3,7 +3,7 @@
 * 📧 [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
 * 🖇️ [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
 
-I am a Machine Learning Engineer with a Master's Degree in Computer Science from University of Illinois at Chicago.
+I am a Data Scientist with a Master's Degree in Computer Science from University of Illinois at Chicago.
 
 My interests are in 📊 Data Science, 📈 ML Research and developing full-stack data products.
 
