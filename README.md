@@ -5,7 +5,7 @@
 
 I am a Data Scientist with a Master's Degree in Computer Science from University of Illinois at Chicago.
 
-My interests are in 📊 Data Science, 📈 ML Research and developing full-stack data products.
+My interests are in 📊 Data Science, 📈 ML Research and system design.
 
 - 🔭 I’m currently working on:
   * 🗪 Speech based Conversational Recommender System using Knowledge Graphs
@@ -41,10 +41,12 @@ My interests are in 📊 Data Science, 📈 ML Research and developing full-stac
 
 
 ## Tools & Technologies
-* Python, JavaScript, C, Node.js, Angular, Scala
-* MySQL, PostgreSQL, DynamoDB, Cassandra, MongoDB
-* AWS, Hadoop, Git, Docker, Apache Spark, Apache Kafka, Apache Solr, PySpark
-* Machine Learning, Natural Language Processing, Information Retrieval, Conversational Recommender Systems
+* Python, AWS, GCP, Vertex AI/Sagemaker, Databricks/EMR, MLOps
+* Scikit-learn, Tensorflow/Keras/PyTorch, Scipy, NLTK, PySpark/Pandas/Numpy, 
+* BigQuery, MySQL, PostgreSQL, DynamoDB, Cassandra, MongoDB, Hive
+* Hadoop, Apache Spark, Apache Kafka/AWS Kinesis, AWS SQS, Apache Flink, 
+* Statistical Learning, Machine Learning, Data Science, A/B Testing
+
 
 <!--
 **AshwinDeshpande96/AshwinDeshpande96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
