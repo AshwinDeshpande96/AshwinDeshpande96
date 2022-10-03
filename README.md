@@ -7,8 +7,8 @@ I am a Data Scientist with a Master's Degree in Computer Science from University
 
 My interests are in 📊 Data Science, 📈 ML Research and system design.
 
-- 🔭 I’m currently working on:
-  * 🗪 Speech based Conversational Recommender System using Knowledge Graphs
+- 🔭 I’m currently working on: 
+  * 🗪 Conversational Recommender Systems
 
 
 ## 🔍 Publications
