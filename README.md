@@ -3,9 +3,9 @@
 * 📧 [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
 * 🖇️ [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
 
-I am a Data Scientist with a Master's Degree in Computer Science from University of Illinois at Chicago.
+I am a Data Scientist at Bombora. I work in the Identity team producing ML models and analysis of those ML models to help generate high quality intent data. 
 
-My interests are in 📊 Data Science, 📈 ML Research and system design.
+My interests are in 📊 Data Science, 📈 ML Research and ML in Production.
 
 - 🔭 I’m currently working on: 
   * 🗪 Conversational Recommender Systems
