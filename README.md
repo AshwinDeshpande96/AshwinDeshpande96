@@ -8,7 +8,7 @@ I am a Data Scientist at Bombora. I work in the Identity team producing ML model
 My interests are in 📊 Data Science, 📈 ML Research and ML in Production.
 
 - 🔭 I’m currently working on: 
-  * 🗪 Conversational Recommender Systems
+  *💲Credit Risk Analysis: Prediction the rate of default for mortgage loans
 
 
 ## 🔍 Publications
