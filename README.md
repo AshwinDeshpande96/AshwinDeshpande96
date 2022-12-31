@@ -20,7 +20,9 @@ My interests are in 📊 Data Science, 📈 ML Research and ML in Production.
 * [Realtime Cloud IOT Network](https://github.com/AshwinDeshpande96/Realtime_Cloud_IOT_Network_Kafka_Spark_Cassandra)
   * Scala/Python | Hadoop | Spark | Kafka | Cassandra
 
-## 📈 Machine Learning Projects
+## 📈 Data Science Projects
+* [Credit Risk Analysis](https://github.com/AshwinDeshpande96/credit_risk_analysis_adhoc)
+  * Adhoc Analysis | System Design | Data Science | Visualization & Reports  
 * [Conversational Recommender Systems using Multi-Relational Data](https://github.com/AshwinDeshpande96/Conversational_Recommender_System_using_Multi-Relational_Data) [[report](https://github.com/AshwinDeshpande96/Conversational_Recommender_System_using_Multi-Relational_Data/blob/master/Report/Conversational_Recommender_Systems_using_Multi_Relational_Data.pdf)]
   * Recommendation System | Chatbot | Knowledge Graph | React | Django | AWS Lambda | DynamoDB | Spark
 * [Churn Prediction Investment Company](https://github.com/AshwinDeshpande96/Churn-Prediction-Investment-Company)
