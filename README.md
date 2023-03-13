@@ -22,7 +22,7 @@ My interests are in 📊 Data Science, 📈 ML Research and ML in Production.
 
 ## 📈 Data Science Projects
 * [Employee Attrition](https://github.com/AshwinDeshpande96/Employee_Attrition)
-   * Full Data Science Lifecycle | Multiclass Classification | Data Science
+   * Full Data Science Pipeline | Multiclass Classification | Data Science
 * [Credit Risk Analysis](https://github.com/AshwinDeshpande96/credit_risk_analysis_adhoc)
   * Adhoc Analysis | System Design | Data Science | Visualization & Reports  
 * [Conversational Recommender Systems using Multi-Relational Data](https://github.com/AshwinDeshpande96/Conversational_Recommender_System_using_Multi-Relational_Data) [[report](https://github.com/AshwinDeshpande96/Conversational_Recommender_System_using_Multi-Relational_Data/blob/master/Report/Conversational_Recommender_Systems_using_Multi_Relational_Data.pdf)]
