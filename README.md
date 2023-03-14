@@ -21,7 +21,7 @@ My interests are in 📊 Data Science, 📈 ML Research and ML in Production.
   * Scala/Python | Hadoop | Spark | Kafka | Cassandra
 
 ## 📈 Data Science Projects
-* [Employee Attrition](https://github.com/AshwinDeshpande96/Employee_Attrition)
+* [Product Membership Recommendation System](https://github.com/AshwinDeshpande96/Product-Membership-Recommendation-System)
    * Full Data Science Pipeline | Multiclass Classification | Data Science
 * [Credit Risk Analysis](https://github.com/AshwinDeshpande96/credit_risk_analysis_adhoc)
   * Adhoc Analysis | System Design | Data Science | Visualization & Reports  
