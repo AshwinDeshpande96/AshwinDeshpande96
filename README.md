@@ -3,10 +3,6 @@
 * 📧 [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
 * 🖇️ [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
 
-I am a Data Scientist at Bombora. I work in the Identity team producing ML models and analysis of those ML models to help generate high quality intent data. 
-
-My interests are in 📊 Data Science, 📈 ML Research and ML in Production.
-
 - 🔭 I’m currently working on: 
     * 💲 Credit Risk Analysis: Prediction the rate of default for mortgage loans
 
@@ -19,6 +15,8 @@ My interests are in 📊 Data Science, 📈 ML Research and ML in Production.
   * Python | AWS Lambda/Gateway API/Athena | DynamoDB
 * [Realtime Cloud IOT Network](https://github.com/AshwinDeshpande96/Realtime_Cloud_IOT_Network_Kafka_Spark_Cassandra)
   * Scala/Python | Hadoop | Spark | Kafka | Cassandra
+* [Open Connect Social Media](https://github.com/AshwinDeshpande96/Open-Connect-Social-Media)
+  * Node.JS | Angular | Redshift | MongoDB | Express | AWS
 
 ## 📈 Data Science Projects
 * [Employee Attrition Prediction](https://github.com/AshwinDeshpande96/Employee-Attrition-Prediction)
