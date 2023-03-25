@@ -14,7 +14,7 @@
   * Python | AWS Lambda/Gateway API/Athena | DynamoDB
 * [Realtime Cloud IOT Network](https://github.com/AshwinDeshpande96/Realtime_Cloud_IOT_Network_Kafka_Spark_Cassandra)
   * Scala/Python | Hadoop | Spark | Kafka | Cassandra
-* [Open Connect Social Media](https://github.com/AshwinDeshpande96/Open-Connect-Social-Media)
+* [Open Connect Social Media](https://github.com/AshwinDeshpande96/P2P-Social-Media-App)
   * Node.JS | Angular | Redshift | MongoDB | Express | AWS
 
 ## 📈 Data Science Projects
