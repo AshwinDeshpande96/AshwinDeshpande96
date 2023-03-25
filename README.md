@@ -1,7 +1,6 @@
 # Welcome!🙋🏻‍♂️
 ☎️ Contact me: 
 * 📧 [ashwindeshpande96@gmail.com](mailto:ashwindeshpande96@gmail.com)
-* 🖇️ [LinkedIn](https://www.linkedin.com/in/ashwin-deshpande-li96/)
 
 - 🔭 I’m currently working on: 
     * 💲 Credit Risk Analysis: Prediction the rate of default for mortgage loans
